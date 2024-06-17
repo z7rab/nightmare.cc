@@ -6,5 +6,7 @@ return {
         ["vcmebruhuscared"] = true,
         ["statue1337"] = true,
         ["butwhychewbut"] = true,
+        ["dramalowksuks"] = true,
+        ["thissciptterrible"] = true,
     }
 }
