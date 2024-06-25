@@ -11,8 +11,13 @@
   Credits:
   7rab | skibidi
 
-  Hall of shame:
+]]
+
+--[[
+
+  --[ Hall of shame: ]--
   Obscuralua, Reason: Fucking doesnt support my funcs but moonsec does? nice job user69420!
+  the one indian "swatter" and "extorter", he literally only extorted KIDS LMFAO (and a femboy 💀💀💀)
 
 ]]
 
