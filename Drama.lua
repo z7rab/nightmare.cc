@@ -2,22 +2,30 @@
 
   Imagine having to resort to viewing someone elses source code JUST so you can skid it, Pathetic script kiddie.
 
+  -----------------------------------------------------------------------------
+
   Note:
   7wab wuvs u!!
 
-  Supported executors:
+  -----------------------------------------------------------------------------
+
+  --[ Supported executors: ]--
+
   Any executor that supports moonsec / obscuralua
+  
+  -----------------------------------------------------------------------------
 
-  Credits:
-  7rab | skibidi
+  --[ Credits: ]--
 
-]]
+  7rab | skibidi toilette fan
 
---[[
+  -----------------------------------------------------------------------------
 
   --[ Hall of shame: ]--
   Obscuralua, Reason: Fucking doesnt support my funcs but moonsec does? nice job user69420!
   the one indian "swatter" and "extorter", he literally only extorted KIDS LMFAO (and a femboy 💀💀💀)
+
+  -----------------------------------------------------------------------------
 
 ]]
 
