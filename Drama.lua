@@ -4,6 +4,10 @@
 
   -----------------------------------------------------------------------------
 
+  --[ GNU : This repository and all its contents has been licensed by GNU ]--
+
+  -----------------------------------------------------------------------------
+
   Note:
   7wab wuvs u!!
 
@@ -24,8 +28,6 @@
   --[ Hall of shame: ]--
   Obscuralua, Reason: Fucking doesnt support my funcs but moonsec does? nice job user69420!
   the one indian "swatter" and "extorter", he literally only extorted KIDS LMFAO (and a femboy 💀💀💀)
-
-  -----------------------------------------------------------------------------
 
 ]]
 
