@@ -21,7 +21,7 @@
 
   --[ Credits: ]--
 
-  7rab | skibidi toilette fan
+  7rab | skibidi toilette fan uwu
 
   -----------------------------------------------------------------------------
 
