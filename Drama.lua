@@ -15,7 +15,7 @@
 
   --[ Supported executors: ]--
 
-  Any executor that supports moonsec (including solara for skids)
+  Any executor that supports moonsec (including solara for skids) -- THAT MEANS WITH SOLARA, NOT EXCLUDING SINCE A DUMBFUCK FUCKING MISTAKED IT AS EXCLUDING
   
   -----------------------------------------------------------------------------
 
