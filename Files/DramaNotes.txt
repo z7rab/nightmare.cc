@@ -1,1 +1,1 @@
-updated drama w one of the biggest internal updates yet!
+fixed a massive bug w getproduct info, roblox had a internal error
