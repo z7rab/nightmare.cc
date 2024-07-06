@@ -1,1 +1,1 @@
-added vanish and unvanish
+.lua cmd is actually pretty cool
