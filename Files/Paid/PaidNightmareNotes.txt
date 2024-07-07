@@ -1,1 +1,1 @@
-.lua cmd is actually pretty cool
+Fixed .orbspeed command | W 7rab ong
