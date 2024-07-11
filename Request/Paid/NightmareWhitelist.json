@@ -12,7 +12,8 @@
         "2FC1B92F-B9F8-4BE3-ACC1-F4AA01F53C9E",
         "A939D31F-B0D7-4E2A-B6AE-3E1CA0667141",
         "9BBD9340-77AB-4A2B-AC9B-0C956EF1064D",
-        "623C8FE3-012E-482B-8ED1-5D9BD44A3141"
+        "623C8FE3-012E-482B-8ED1-5D9BD44A3141",
+        "54CF08A5-B4A2-44C8-9D2F-FC7219ED2317"
     ],
     "whitelisted_ids": [
         6121957822,
@@ -54,7 +55,8 @@
         487060771,
         4082020865,
         5695262419,
-        4125140055
+        4125140055,
+        7044874584
     ],
     "whitelisted_displays": [
         "idkfr_83",
@@ -68,7 +70,8 @@
         "Imfluffy_Xd",
         "Fr0zyRbx",
         "ant_king120v",
-        "Wll_Sportz"
+        "Wll_Sportz",
+        "IndigoAPI"
     ],
     "whitelisted_usernames": [
         "idkfr_83",
@@ -110,7 +113,8 @@
         "Imfluffy_dX",
         "Fr0zyRbx",
         "ant_king120v",
-        "Wll_Sportz"
+        "Wll_Sportz",
+        "IndigoAPI"
     ],
     "whitelisted_owners": [
         "NightmareBot_7",
@@ -131,7 +135,8 @@
         "dummy_101324",
         "ImAm4t3ur",
         "Lystior",
-        "ImAm4t3ur"
+        "ImAm4t3ur",
+        "Gillranveer13"
     ],
     "verified_luaowners": [
         "NightmareBot_7",
