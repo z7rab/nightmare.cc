@@ -4,7 +4,6 @@
         "33BF340C-6CB1-486A-B09A-07239010A5B8",
         "AAC6C08B-9251-405C-B23D-4068321763CA",
         "2A9D76A8-EE86-473C-9CA6-28A0F20E7AAF",
-        "EEE7E62E-20D4-4579-AF0B-38A3DD06A705",
         "2FF16752-4689-45C1-8C82-4456690AF1D9",
         "66B12422-A289-4439-AE01-91E545BDFA14",
         "3F8A3C89-FF01-42BC-93F1-390715920D91",
@@ -13,7 +12,8 @@
         "A939D31F-B0D7-4E2A-B6AE-3E1CA0667141",
         "9BBD9340-77AB-4A2B-AC9B-0C956EF1064D",
         "623C8FE3-012E-482B-8ED1-5D9BD44A3141",
-        "54CF08A5-B4A2-44C8-9D2F-FC7219ED2317"
+        "54CF08A5-B4A2-44C8-9D2F-FC7219ED2317",
+        "FEE29039-7971-447A-B2EE-77FBA90F1D41"
     ],
     "whitelisted_ids": [
         6121957822,
@@ -48,7 +48,6 @@
         3171451585,
         906764008,
         11631364,
-        5801328954,
         5689293416,
         5749275200,
         5579475507,
@@ -56,7 +55,8 @@
         4082020865,
         5695262419,
         4125140055,
-        7044874584
+        7044874584,
+        
     ],
     "whitelisted_displays": [
         "idkfr_83",
@@ -70,8 +70,9 @@
         "Imfluffy_Xd",
         "Fr0zyRbx",
         "ant_king120v",
-        "Wll_Sportz",
-        "IndigoAPI"
+        "IndigoAPI",
+        "SkyFeiner",
+        "minecraft_zocker412"
     ],
     "whitelisted_usernames": [
         "idkfr_83",
@@ -113,8 +114,9 @@
         "Imfluffy_dX",
         "Fr0zyRbx",
         "ant_king120v",
-        "Wll_Sportz",
-        "IndigoAPI"
+        "IndigoAPI",
+        "SkyFeiner",
+        "minecraft_zocker412"
     ],
     "whitelisted_owners": [
         "NightmareBot_7",
@@ -126,7 +128,6 @@
         "NightmareBot_1",
         "retro9c2",
         "14kpv",
-        "krenchcob",
         "T_azb",
         "getyourprize550",
         "WackyNoodleDoodle",
@@ -136,7 +137,8 @@
         "ImAm4t3ur",
         "Lystior",
         "ImAm4t3ur",
-        "Gillranveer13"
+        "Gillranveer13",
+        "Redoc_2"
     ],
     "verified_luaowners": [
         "NightmareBot_7",
