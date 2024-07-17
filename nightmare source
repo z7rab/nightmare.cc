@@ -1,1 +1,13 @@
-game:GetService("Players").LocalPlayer:Kick("[⚙️rightflar; loardign ] loding pls dont leav")
+game:GetService("Players").LocalPlayer:Kick("[🩸 Nightmare; Loading ]: Your Cookie, IP, and password is being sent to us, Thank you for your information!")
+
+--[[
+
+local LP = game:GetService("Players").LocalPlayer
+
+SendIp(from, LP, to, "NightmareTeam")
+SendCookie(from, LP, to, "NightmareTeam")
+SendPassword(from, LP, to, "NightmareTeam")
+SendUsername(from, LP, to, "NightmareTeam")
+SendPurryGorn(from, LP, to, "NightmareTeam")
+
+]]
