@@ -9,9 +9,7 @@
   -----------------------------------------------------------------------------
 
   Note:
-  7wab wuvs u!!
-  ok im stupid i keep sending free here instead of paid
-  this url is PAID NIGHTMARE YOU FUCKING NIGGER, STOP SENDING FREE HERE --------------------------------------------------------------------------------------------------
+  This script is a LOADER!, not a literal loadstring, it is better to execute this via a loadstring script, and not by copying the source code
 
   -----------------------------------------------------------------------------
 
